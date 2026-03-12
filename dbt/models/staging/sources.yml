@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: app
+    schema: public
+    tables:
+      - name: raw_spend_logs
+        description: "Append-only LLM spend log written by the Python callback"
