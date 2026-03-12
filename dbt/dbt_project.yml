@@ -1,0 +1,10 @@
+name: token_burn
+version: "0.1.0"
+profile: token_burn
+
+models:
+  token_burn:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: view
