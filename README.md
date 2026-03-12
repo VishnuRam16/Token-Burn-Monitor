@@ -1,4 +1,4 @@
-# Token Burn 🔥
+# Token Burn
 
 **An MVP-grade LLM cost monitoring system that tracks spend per user and feature in real time.**
 
