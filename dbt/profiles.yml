@@ -1,0 +1,12 @@
+token_burn:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      port: 5433
+      user: burn_user
+      pass: "changeme"
+      dbname: token_burn
+      schema: public
+      threads: 2
